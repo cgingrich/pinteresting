@@ -11,7 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
 
 
-group :development, :text do
+group :development, :test do
 	gem 'sqlite3'
 end
 
